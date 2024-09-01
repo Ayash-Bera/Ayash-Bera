@@ -6,7 +6,7 @@
 
 [![Ayash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ayash-Bera&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
+![](https://github-profile-trophy.vercel.app/?username=Ayash-Bera&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 [![Nishant1500's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ayash-Bera&show_icons=true&theme=radical)](https://github.com/Nishant1500?tab=overview)
 <br>
 <a href="https://github.com/Nishant1500?tab=overview">
