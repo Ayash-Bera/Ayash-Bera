@@ -1,3 +1,6 @@
+I’m all about coding, music, and good food. Exploring Web3 is my latest passion, but you’ll usually find me vibing to a playlist or experimenting in the kitchen when I’m not working on new tech ideas
+
+
 <h3 align="left">Connect with me :</h3>
 <h3 align="left">https://linktr.ee/ayash_bera‎‎</h3>
 
