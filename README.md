@@ -14,5 +14,5 @@ I’m all about coding, music, and good food. Exploring Web3 is my latest passio
 <br>
 <a href="https://github.com/Nishant1500?tab=overview">
 <img align="center" alt="Ayash's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayash-Bera&layout=compact&langs_count=9&theme=radical&exclude_repo=Optifine-Mod-Coder-Pack-1.16.1,Projects"/>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ayash-Bera&theme=radical" alt="More Nish Stats" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ayash-Bera&theme=radical" /></p>
 </a>
