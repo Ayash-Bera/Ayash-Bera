@@ -1,7 +1,9 @@
-Hiiiiiiiii :3
-
-ayashbera.me //find me here 
-
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+ABHIJAT+SINHA;Nice+to+meet+you!&center=true&size=30">
+  </a>
+  <h3 align="center">ayashbera.me</h3>
+</h1>
 
 <h3 align="left">Connect with me :</h3>
 <h3 align="left">https://linktr.ee/ayash_bera‎‎</h3>
